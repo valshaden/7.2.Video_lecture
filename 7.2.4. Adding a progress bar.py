@@ -10,6 +10,7 @@ from tkinter import *
 from tkinter import ttk
 from PIL import Image, ImageTk
 from io import BytesIO
+from tkinter import messagebox
 
 def get_random_dog_image():
     try:
